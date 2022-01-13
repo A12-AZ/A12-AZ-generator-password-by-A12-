@@ -1,1 +1,5 @@
-# A12-AZ-generator-password-by-A12-
+# Password-Generator
+Simple PHP &amp; AJAX Powered Password Generator
+
+## Preview
+![Password Generator](Preview.PNG?raw=true")
